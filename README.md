@@ -7,3 +7,12 @@ A place to put notes while studying for my AWS certifications.
 * [Organizations](Organizations.md)
 * [S3](S3.md)
 * [Sharing](Sharing.md)
+* [Replication](Replication.md)
+
+## Review
+
+The following topics need to be rewatched:
+
+* Sharing S3 buckets.
+* Cross region replication.
+
